@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_GOLD MD CONNECTED WITH PAIRING CODE*
-*_MADE BY UMAR😘_*
+*_DEVOLPED BY UMAR😘_*
 ______________________________________
 ╔════🔰
 ║ *『 WOW YOU'VE CHOSEN GOLD MD 』*
@@ -68,13 +68,14 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║🔰 *Devolper:* _UMAR_
 ║🔰 *Bot_Name:* _GOLD MD_
+║🔰 *Description:* _MULTI-DEVICE WHATSAPP BOT_
 ║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD
 ║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s
 ║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y
 ╚════════════════════════╝
 _____________________________________
 
-_Don't Forget To Give Star To My Repo_`
+_GIVE A STAR TO MY REPO GOLD MD🌟_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
