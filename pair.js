@@ -67,6 +67,7 @@ ______________________________________
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║🔰 *Devolper:* _UMAR_
+║🔰 *Bot_Name:* _GOLD MD_
 ║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD
 ║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s
 ║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y
