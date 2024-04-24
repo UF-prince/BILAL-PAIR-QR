@@ -1,9 +1,9 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
-    "logo": "",
+    "name": "♥️GOLD MD PAIR QR♥️",
+    "description": "SESSION ID GENERATOR FOR WHATSAPP BOTS",
+    "logo": "https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg",
     "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
-    "keywords": ["@Xcelsama"],
+    "keywords": ["@D4X-UMAR"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -13,7 +13,7 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "",
+        "description": "BY UMAR😘",
         "value": "",
         "required": false 
       }
