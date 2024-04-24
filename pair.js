@@ -69,9 +69,9 @@ ______________________________________
 ║🔰 *Devolper:* _UMAR_
 ║🔰 *Bot_Name:* _GOLD MD_
 ║🔰 *Description:* _MULTI-DEVICE WHATSAPP BOT_
-║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD
-║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s
-║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y
+║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD_
+║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s_
+║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y_
 ╚════════════════════════╝
 _____________________________________
 
