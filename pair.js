@@ -62,15 +62,14 @@ router.get('/', async (req, res) => {
 ______________________________________
 ╔════🔰
 ║ *『 WOW YOU'VE CHOSEN GOLD MD 』*
-║ _SESSION ID SUCCESSFULLY RECEIVED🙂COD_
+║ _SESSION ID SUCCESSFULLY RECEIVED_
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║🔰 *Devolper:* _UMAR_
+║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD
+║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s
+║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y
 ╚════════════════════════╝
 _____________________________________
 
