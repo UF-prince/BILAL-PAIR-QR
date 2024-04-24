@@ -64,7 +64,7 @@ ______________________________________
 ║ *『 WOW YOU'VE CHOSEN GOLD MD 』*
 ║ _SESSION ID SUCCESSFULLY RECEIVED_
 ╚════════════════════════╝
-╔═════◇
+╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║🔰 *Devolper:* _UMAR_
 ║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD
