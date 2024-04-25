@@ -57,16 +57,16 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_GOLD MD CONNECTED WITH PAIRING CODE*
+*_GOLD MD CONNECTED_*
 *_DEVOLPED BY UMAR😘_*
 ______________________________________
 ╔════🔰
-║ *『 WOW YOU'VE CHOSEN GOLD MD 』*
+║ *PAIRING CODE WAS CONNECTED*
 ║ _SESSION ID SUCCESSFULLY RECEIVED_
 ╚════════════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║🔰 *Devolper:* _UMAR_
+║🔰 *Devolper:* UMAR
 ║🔰 *Bot_Name:* _GOLD MD_
 ║🔰 *Description:* _MULTI-DEVICE WHATSAPP BOT_
 ║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD_
