@@ -59,12 +59,12 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_GOLD MD CONNECTED_*
+*_GOLD MD CONNECTED🔰_*
 *_DEVOLPED BY UMAR😘_*
 ______________________________________
 ╔════🔰
 ║ *QR CODE WAS CONNECTED*
-║ SESSION ID SUCCESSFULLY RECEIVED
+║ SESSION ID RECEIVED
 ╚════════════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
