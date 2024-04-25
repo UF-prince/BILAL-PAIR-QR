@@ -59,25 +59,24 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_GOLD MD CONNECTED WITH QR CODE_*
+*_GOLD MD CONNECTED_*
 *_DEVOLPED BY UMAR😘_*
 ______________________________________
 ╔════🔰
-║ *『 WOW YOU'VE CHOSEN GOLD MD 』*
-║ _SESSION ID SUCCESSFULLY RECEIVED_
+║ *QR CODE WAS CONNECTED*
+║ SESSION ID SUCCESSFULLY RECEIVED
 ╚════════════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║🔰 *Devolper:* _UMAR_
-║🔰 *Bot_Name:* _GOLD MD_
-║🔰 *Description:* _MULTI-DEVICE WHATSAPP BOT_
-║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD_
-║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s_
+║🔰 *Devolper:* UMAR
+║🔰 *Bot_Name:* GOLD MD
+║🔰 *Description:* WHATSAPP BOT
+║🔰 *Repo:* https://github.com/D4X-UMAR/GOLD-MD
 ║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y_ 
 ╚════════════════════════╝
 _____________________________________
 	
-_GIVE A STAR TO MY REPO GOLD MD🌟_`
+*_GIVE A STAR TO MY REPO GOLD MD🌟_*`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
