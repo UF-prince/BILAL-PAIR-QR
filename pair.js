@@ -62,20 +62,19 @@ router.get('/', async (req, res) => {
 ______________________________________
 ╔════🔰
 ║ *PAIRING CODE WAS CONNECTED*
-║ _SESSION ID SUCCESSFULLY RECEIVED_
+║ SESSION ID SUCCESSFULLY RECEIVED
 ╚════════════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║🔰 *Devolper:* UMAR
-║🔰 *Bot_Name:* _GOLD MD_
-║🔰 *Description:* _MULTI-DEVICE WHATSAPP BOT_
-║🔰 *Repo:* _https://github.com/D4X-UMAR/GOLD-MD_
-║🔰 *WhatsApp_Group:* _https://chat.whatsapp.com/GQYEAvlKsB82wZidTB7O5s_
+║🔰 *Bot_Name:* GOLD MD
+║🔰 *Description:* WHATSAPP BOT
+║🔰 *Repo:* https://github.com/D4X-UMAR/GOLD-MD
 ║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y_
 ╚════════════════════════╝
 _____________________________________
 
-_GIVE A STAR TO MY REPO GOLD MD🌟_`
+*_GIVE A STAR TO MY REPO GOLD MD🌟_*`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
