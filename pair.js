@@ -71,7 +71,7 @@ ______________________________________
 ║🔰 *Description:* WHATSAPP BOT
 ║🔰 *Repo:* https://github.com/D4X-UMAR/GOLD-MD
 ║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y_
-╚════════════════════════╝
+╚══════════════════════╝
 _____________________________________
 
 *_GIVE A STAR TO MY REPO GOLD MD🌟_*`
