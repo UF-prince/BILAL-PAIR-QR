@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 *_MADE BY UMAR_*
 ______________________________________
 ╔════🔰
-║ *QR CODE WAS CONNECTED*
+║ *QR CODE CONNECTED*
 ║ SESSION ID RECEIVED
 ╚═══════════════════╝
 ╔═════🔰
@@ -72,7 +72,7 @@ ______________________________________
 ║🔰 *Bot_Name:* GOLD MD
 ║🔰 *Description:* WHATSAPP BOT
 ║🔰 *Repo:* https://github.com/D4X-UMAR/GOLD-MD
-║🔰 *WhatsApp_Channel:* _https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y_ 
+║🔰 *WhatsApp_Channel:* https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m 
 ╚════════════════════════╝
 _____________________________________
 	
