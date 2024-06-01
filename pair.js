@@ -66,11 +66,11 @@ ______________________________________
 ╚═══════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║🔰 *Devolper:* UMAR
-║🔰 *Bot_Name:* GOLD MD
-║🔰 *Description:* WHATSAPP BOT
-║🔰 *Repo:* https://github.com/D4X-UMAR/GOLD-MD
-║🔰 *WhatsApp_Channel:* https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m
+║🔰 *DEVELOPER:❯* UMAR
+║🔰 *BOT_NAME:❯* GOLD-MD
+║🔰 *DESCRIPTION:❯* WHATSAPP BOT
+║🔰 *REPO:❯* https://github.com/D4X-UMAR/GOLD-MD
+║🔰 *WHATSAPP_CHANNEL:❯* https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m
 ╚══════════════════════╝
 _____________________________________
 
