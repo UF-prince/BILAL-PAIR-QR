@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-*_GIVE A STAR TO MY REPO GOLD MD🌟_*
+*_GIVE A STAR TO MY REPO BILAL-MD🌟_*
 
  Server running on http://localhost:` + PORT)
 })
