@@ -66,15 +66,15 @@ ______________________________________
 ╚═══════════════════╝
 ╔═════🔰
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║🔰 *DEVELOPER:❯* UMAR
-║🔰 *BOT_NAME:❯* GOLD-MD
+║🔰 *DEVELOPER:❯* BILAL
+║🔰 *BOT_NAME:❯* BILAL-MD
 ║🔰 *DESCRIPTION:❯* WHATSAPP BOT
-║🔰 *REPO:❯* https://github.com/D4X-UMAR/GOLD-MD
+║🔰 *REPO:❯* https://github.com/Uf-Prince/BILAL-PAIR-QR
 ║🔰 *WHATSAPP_CHANNEL:❯* https://whatsapp.com/channel/0029VabdDuf7DAWylTkTZa0m
 ╚══════════════════════╝
 _____________________________________
 
-*_GIVE A STAR TO MY REPO GOLD MD🌟_*`
+*_GIVE A STAR TO MY REPO BILAL MD🌟_*`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
